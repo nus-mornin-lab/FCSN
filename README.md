@@ -22,7 +22,7 @@ We test FCSN on 2 medical image datasets: 1.[ISIC_2018]() and 2: [RIM_ONE_DL]().
 ####  ISIC_2018
 * ISIC_2018 data can be downloaded [here](). Donwload only the train-sets which are highlighted with red boxes in the figure below. We use 5-fold cross-validation on the training set for model evaluation because the ground-truth for the test-set is not publictly available.
 
-![](./imgs/data_ISIC.png)
+![](./imgs/data_isic.png)
 
 * The originial dataset has varying image size. It is required for users to resize all the images to 256 x 256 before training.
 
@@ -37,7 +37,7 @@ ISIC
 ####  RIM_ONE_DL
 * RIM_ONE_DL data can be downloaded [here](). Donwload both the train-set and test-set clicking the link hightlighted with a red box.
 
-![](./imgs/data_RIM.png)
+![](./imgs/data_rim.png)
 
 * It is required for users to resize all the images to 256 x 256 before training.
 
