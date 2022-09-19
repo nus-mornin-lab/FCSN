@@ -89,7 +89,7 @@ To run baseline model such as UNet, the command is
 
 ### 3. Evaluation 
 
-We evaluate our model bloadly on 4 aspects: 1) performance without noise, 2) performance with noise, 3) model complexity, and 4) receptive field size. We provide jupyter-notebook in **evaluation\** directory.
+We evaluate our model bloadly on 4 aspects: 1) performance without noise, 2) performance with noise, 3) model complexity, and 4) receptive field size. We provide jupyter-notebook in **evaluation** directory.
 
 * 1) performance without noise : VisualizeResults
 * 2) performance with noise : VisualizeNoise
