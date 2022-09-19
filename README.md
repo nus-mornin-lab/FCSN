@@ -91,7 +91,7 @@ To run baseline model such as UNet, the command is
 
 We evaluate our model bloadly on 4 aspects: 1) performance without noise, 2) performance with noise, 3) model complexity, and 4) receptive field size. We provide jupyter-notebook in **evaluation** directory.
 
-* 1) performance without noise : VisualizeResults
-* 2) performance with noise : VisualizeNoise
-* 3) model complexity : VisualizeComplexity
-* 4) receptive field size : VisualizeReceptive
+* 1) performance without noise : VisualizeResults.ipynb
+* 2) performance with noise : VisualizeNoise.ipynb
+* 3) model complexity : VisualizeComplexity.ipynb
+* 4) receptive field size : VisualizeReceptive.ipynb
