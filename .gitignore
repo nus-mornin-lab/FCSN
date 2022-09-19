@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+vis/
+gitignore*
+ckpt/
+/data/dataset/
+*.ods
+*.log
