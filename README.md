@@ -3,7 +3,7 @@
 ### Authors
 *  Jeon Young Seok (co-first) (youngseokejeon74@gmail.com)
 *  Hongfei Yang (co-first)  (hfyang@nus.edu.sg)
-*  Mengling Feng (coressponding) (ephfm.gmail.com)
+*  Mengling Feng (coressponding) (ephfm@gmail.com)
 
 ---
 ## Abstract
